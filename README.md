@@ -7,7 +7,7 @@
 <h3 align="center">🐉 JavaScript Dragon | Full-Stack Alchemist | Node.js Stormcaller 🐉</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FACC15&center=true&vCenter=true&width=500&lines=Turning+coffee+into+code+since+2020;Code+by+day%2C+dragon+by+night;Summoning+thunderstorms+with+JavaScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FACC15&center=true&vCenter=true&width=500&lines=Code+By+The+Fwnzx+Thunder;Summoning+thunderstorms+with+JavaScript" alt="Typing SVG" />
 </p>
 
 ---
