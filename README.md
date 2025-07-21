@@ -47,6 +47,6 @@ class FanzxThunder extends Developer {
 <br>
 <div align="left">
 <!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatkhurrhn&radius=16&theme=react&area=true&order=5" height="auto" alt="by fatkhurhhn"/> -->
-  <a href="https://cannieai.xevenxyyvip.site">
+  <a href="https://t.me/fanzxnothuman">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=fanzxnothuman&theme=github-compact&radius=16" height="auto" alt="by fanzxnothuman"/>
 </a>
