@@ -1,6 +1,6 @@
 <!-- Header with Animated GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJtY3F1eW5xZ2J4d3RlZ2V6eGJ6Z2N6dWZ1bnR0eGZqZzZ1eWZ1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJtY3F1eW5xZ2J4d3RlZ2V6eGJ6Z2N6dWZ1bnR0eGZqZzZ1eWZ1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="300"/>
 </p>
 
 <h1 align="center">⚡ 𝗛𝗘𝗟𝗟𝗢, 𝗜'𝗠 𝗙𝗔𝗡𝗭𝗫𝗧𝗛𝗨𝗡𝗗𝗘𝗥 ⚡</h1>
