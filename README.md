@@ -7,7 +7,7 @@
 <h3 align="center">🐉 JavaScript | Node.js 🐉</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FACC15&center=true&vCenter=true&width=500&lines=Code+By+The+Fanzx+Thunder;This+Is+Fanzx+Not+Human+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FACC15&center=true&vCenter=true&width=500&lines=system.out.println("FanzxThunder");;This+Is+Fanzx+Not+Human+!" alt="Typing SVG" />
 </p>
 
 ---
