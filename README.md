@@ -7,7 +7,7 @@
 <h3 align="center">🐉 JavaScript | Node.js 🐉</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FACC15&center=true&vCenter=true&width=500&lines=Hiii+I'm+FanzxNotHuman+!;I'am+a+Bot+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FACC15&center=true&vCenter=true&width=500&lines=Hiii,+I'm+The+Fanzx+Thunder+!;I'am+a+Bot+Developer" alt="Typing SVG" />
 </p>
 
 ---
@@ -35,7 +35,7 @@ class FanzxThunder extends Developer {
   }
 
   unleashPower() {
-    return "⚡🐉 THUNDER STORM ACTIVATE! 🐉⚡";
+    return "⚡🐉 𝐓𝐡𝐞𝐅𝐚𝐧𝐳𝐱𝐓𝐡𝐮𝐧𝐝𝐞𝐫! 🐉⚡";
   }
 }
 ```
