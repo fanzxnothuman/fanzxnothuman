@@ -39,6 +39,7 @@ class FanzxThunder extends Developer {
   }
 }
 ```
+---
 
   <h3 align="center">Database</h3>
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
