@@ -17,7 +17,7 @@
 class FanzxThunder extends Developer {
   constructor() {
     super();
-    this.name = "Fanzx Thunder";
+    this.name = "fanzxnothuman";
     this.role = "Full-Stack JavaScript Wizard";
     this.skills = {
       frontend: ["JavaScript", "React", "Vue", "TailwindCSS"],
@@ -35,7 +35,7 @@ class FanzxThunder extends Developer {
   }
 
   unleashPower() {
-    return "𝐓𝐡𝐞𝐅𝐚𝐧𝐳𝐱𝐓𝐡𝐮𝐧𝐝𝐞𝐫!";
+    return "FanzxThunder";
   }
 }
 ```
