@@ -14,28 +14,24 @@
 
 ## 🌩️ About Me
 ```javascript
-class FanzxThunder extends Developer {
+class FanzxThunder {
   constructor() {
-    super();
     this.name = "fanzxnothuman";
-    this.role = "Full-Stack JavaScript Wizard";
-    this.skills = {
-      frontend: ["JavaScript", "React", "Vue", "TailwindCSS"],
-      backend: ["Node.js", "Express", "NestJS", "Socket.IO"],
-      databases: ["MongoDB", "PostgreSQL", "Firebase"],
-      devOps: ["Docker", "AWS", "CI/CD Pipelines"],
-      special: ["High-performance system design"]
-    };
+    this.stack = ["JavaScript", "Node.js"];
+    this.learning = [
+      "Backend fundamentals",
+      "Asynchronous JavaScript",
+      "Bot development"
+    ];
     this.interests = [
-      "Creating high-performance web apps",
-      "Game development & animations",
-      "Exploring mythical creatures lore",
-      "Engineering digital thunderstorms"
+      "Building small tools & bots",
+      "Learning by breaking things",
+      "Improving step by step"
     ];
   }
 
-  unleashPower() {
-    return "FanzxThunder";
+  status() {
+    return "Still learning, still shipping.";
   }
 }
 ```
