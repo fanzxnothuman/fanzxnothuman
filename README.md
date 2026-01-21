@@ -17,21 +17,21 @@
 class FanzxThunder {
   constructor() {
     this.name = "fanzxnothuman";
-    this.stack = ["JavaScript", "Node.js"];
-    this.learning = [
+    this.technologies = ["JavaScript", "Node.js"];
+    this.learningFocus = [
       "Backend fundamentals",
       "Asynchronous JavaScript",
       "Bot development"
     ];
     this.interests = [
-      "Building small tools & bots",
-      "Learning by breaking things",
-      "Improving step by step"
+      "Building simple tools and bots",
+      "Learning through experimentation",
+      "Continuous and incremental improvement"
     ];
   }
 
   status() {
-    return "Still learning, still shipping.";
+    return "Continuously learning and steadily improving.";
   }
 }
 ```
