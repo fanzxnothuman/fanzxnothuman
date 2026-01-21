@@ -24,7 +24,7 @@ class FanzxThunder extends Developer {
       backend: ["Node.js", "Express", "NestJS", "Socket.IO"],
       databases: ["MongoDB", "PostgreSQL", "Firebase"],
       devOps: ["Docker", "AWS", "CI/CD Pipelines"],
-      special: ["Dragon Summoning", "Lightning Bolt API Calls"]
+      special: ["High-performance system design"]
     };
     this.interests = [
       "Creating high-performance web apps",
