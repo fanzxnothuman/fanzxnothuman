@@ -7,7 +7,7 @@
 <h3 align="center">JavaScript | Node.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FACC15&center=true&vCenter=true&width=500&lines=Hi,+I'm+The+Fanzx+Thunder+!;I'am+a+Bot+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FACC15&center=true&vCenter=true&width=500&lines=I+build+and+maintain bots.;I'am+a+bot+developer." alt="Typing SVG" />
 </p>
 
 ---
