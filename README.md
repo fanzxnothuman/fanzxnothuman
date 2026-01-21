@@ -7,7 +7,7 @@
 <h3 align="center">JavaScript | Node.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FACC15&center=true&vCenter=true&width=500&lines=I+build+and+maintain bots.;I'am+a+bot+developer." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FACC15&center=true&vCenter=true&width=650&lines=I+enjoy+building+bots.;I+have+fun+learning+through+small+projects.;I+like+experimenting+with+new+ideas." alt="Typing SVG" />
 </p>
 
 ---
